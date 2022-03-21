@@ -23,7 +23,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
 
   *{
     margin: 0;
@@ -56,7 +56,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
   .row {
     width: 100%;
     padding: 20px 10px;
@@ -91,7 +91,7 @@
   padding: 30px
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
   #why.container {
     background-color: rgb(238, 235, 195);
   }
